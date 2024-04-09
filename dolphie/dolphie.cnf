@@ -1,0 +1,5 @@
+[dolphie]
+host=<hostname>
+user=<username>
+password=<password>
+port=3306
